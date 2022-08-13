@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, 
+I'm Richard, a Data Scientist and life-long learner with vast interest and experience in building innovative "user-focused" solutions using tools such as data science, machine learning, IoT, and embedded systems. 
 
-<!--
-**DFRICHARD/DFRICHARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the past 3 years, I have led and collaborated with geographically distributed and culturally diverse teams in using data to solve challenging problems across a wide range of industries including finance, healthcare and education. 
 
-Here are some ideas to get you started:
+Additionally, I am passionate about communities & education so you might often find me speaking at conferences, participating in local/virtual tech meetups, providing mentorship services, and facilitating initiatives at a couple of tech communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Analytics Engineering and Product Management 
+- 👯 I’m looking to collaborate on data science projects
+- 🤔 I’m looking for help with getting better at technical writing
+- 💬 Ask me about data science, machine learning, remote work and developer communities
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/richarddze/) and [Twitter](https://twitter.com/DzeRichard)
